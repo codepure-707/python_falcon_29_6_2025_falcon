@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.14.2
 MAINTAINER Falcon Framework Maintainers
 
 RUN pip install cython
